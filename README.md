@@ -54,11 +54,6 @@ Currently building projects with React, Next.js, and learning advanced frontend 
 
 ---
 
-### 📫 How to reach me
-
-**celeste07102@gmail.com**
-
----
 
 
 <!--
