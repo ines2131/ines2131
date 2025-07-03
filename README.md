@@ -43,7 +43,7 @@ Currently building projects with React, Next.js, and learning advanced frontend 
 
 ### 🚀 Projects
 
-- [**Riset**](https://fine-apartment-d18.notion.site/Riset-c5f9828ccb86492b970994ac1aca4252)  
+- [**Riset**](https://github.com/rise-set-riset/riset_frontend)  
   Responsible for developing core user-facing features, including user registration, login, and My Page functionalities. Implemented secure authentication mechanisms using JWT and OAuth protocols.
 
 - [**Ai-co**](https://github.com/supercoding-aico)  
