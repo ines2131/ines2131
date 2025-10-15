@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-Aspiring Frontend Developer from South Korea based in Hong Kong, with experience in digital marketing tools and tracking implementation.  <br/>
+Aspiring Frontend Developer from South Korea <img src="https://flagcdn.com/w20/kr.png" width="20"/> based in Hong Kong <img src="https://flagcdn.com/w20/hk.png" width="20"/>, with experience in digital marketing tools and tracking implementation.  <br/>
 Currently building projects with React, Next.js, and learning advanced frontend development practices.
 </p>
 
