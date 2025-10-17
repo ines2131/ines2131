@@ -52,6 +52,9 @@ Currently building projects with React, Next.js, and learning advanced frontend 
 - [**Fantasy Shop**](https://github.com/fantasy-shop)  
   Built cart, checkout, order history, and item upload features, with state management using Redux + Thunk and advanced form handling (React Hook Form + FormData) for image uploads.
 
+- [**Bugs Star**](https://github.com/Bugs-Star)<br>
+  Admin Dashboard App auth, product CRUD, item/promotion ordering, Golden Path, and data preprocessing & visualization
+  
 ---
 
 
