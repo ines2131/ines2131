@@ -10,7 +10,7 @@ Currently building projects with React, Next.js, and learning advanced frontend 
 
 ---
 
-### 💻 Frontend
+### 💻 Tech Skills
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24"/></a>
@@ -22,6 +22,10 @@ Currently building projects with React, Next.js, and learning advanced frontend 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="24"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"height="24"/></a>
+</p>
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="24"/></a>
 </p>
 
 <p align="left">
