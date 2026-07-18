@@ -45,9 +45,9 @@ Currently building projects with React, Next.js, and learning advanced frontend 
 ### 🚀 Projects
 
 - [**SmashLab**](https://github.com/ines2131)  
-• Developed a full-stack e-commerce Single Page Application (SPA) using Next.js, MongoDB, and Iron Session.
-• Implemented production-level features including guest cart management, authentication-based cart synchronization, mock checkout/payment flow, and GA4 ecommerce event tracking.
-• Optimized the user journey by maintaining state consistency across sessions and enabling analytics-driven insights through accurate ecommerce tracking.
+• Developed a full-stack e-commerce Single Page Application (SPA) using Next.js, MongoDB, and Iron Session. <br>
+• Implemented production-level features including guest cart management, authentication-based cart synchronization, mock checkout/payment flow, and GA4 ecommerce event tracking. <br>
+• Optimized the user journey by maintaining state consistency across sessions and enabling analytics-driven insights through accurate ecommerce tracking. <br>
 
 - [**Bugs Star**](https://github.com/Bugs-Star)<br>
   Admin Dashboard App auth, product CRUD, item/promotion ordering, Golden Path, and data preprocessing & visualization
