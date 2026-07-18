@@ -44,14 +44,10 @@ Currently building projects with React, Next.js, and learning advanced frontend 
 
 ### 🚀 Projects
 
-- [**Riset**](https://github.com/rise-set-riset/riset_frontend)  
-  Responsible for developing core user-facing features, including user registration, login, and My Page functionalities. Implemented secure authentication mechanisms using JWT and OAuth protocols.
-
-- [**Ai-co**](https://github.com/supercoding-aico)  
-  Implemented team management (CRUD) and real-time chat using WebSocket (STOMP), with automated chat summaries powered by OpenAI.
-  
-- [**Fantasy Shop**](https://github.com/fantasy-shop)  
-  Built cart, checkout, order history, and item upload features, with state management using Redux + Thunk and advanced form handling (React Hook Form + FormData) for image uploads.
+- [**SmashLab**](https://github.com/ines2131)  
+• Developed a full-stack e-commerce Single Page Application (SPA) using Next.js, MongoDB, and Iron Session.
+• Implemented production-level features including guest cart management, authentication-based cart synchronization, mock checkout/payment flow, and GA4 ecommerce event tracking.
+• Optimized the user journey by maintaining state consistency across sessions and enabling analytics-driven insights through accurate ecommerce tracking.
 
 - [**Bugs Star**](https://github.com/Bugs-Star)<br>
   Admin Dashboard App auth, product CRUD, item/promotion ordering, Golden Path, and data preprocessing & visualization
